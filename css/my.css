@@ -19,3 +19,4 @@ body{
     font-style: normal; 
     src: url('../fonts/MicrosoftYaHeiLight.ttf') format('truetype');  
 }
+ul{background-color: transparent;}
