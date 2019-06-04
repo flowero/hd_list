@@ -1,0 +1,21 @@
+.mui-btn-blue, .mui-btn-primary, input[type="submit"] {
+
+    color: #fff;
+    border: 1px solid #FFFFFF;
+	border-radius: 27px;
+    background-color: transparent;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.mui-table-view-cell{border-radius: 10px;}
+body{
+ font-family: "MSYaHei"; 
+ font-weight: ligher;
+}
+
+@font-face {  
+    font-family: MSYaHei;  
+    font-weight: lighter;  
+    font-style: normal; 
+    src: url('../fonts/MicrosoftYaHeiLight.ttf') format('truetype');  
+}
